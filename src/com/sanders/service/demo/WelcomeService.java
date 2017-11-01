@@ -10,7 +10,7 @@ public class WelcomeService implements GenericWelcomeService {
 		
 		myWelcomeMessage.add("Hello! ");
 		myWelcomeMessage.add(name);
-		myWelcomeMessage.add(", welcome to Spring.");
+		myWelcomeMessage.add(", welcome to Springd MVC.");
 		
 		return myWelcomeMessage;
  	}
