@@ -8,7 +8,6 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.sanders.service.demo.GenericWelcomeService;
-import com.sanders.service.demo.WelcomeService;
 
 @Controller
 public class WelcomeController {
